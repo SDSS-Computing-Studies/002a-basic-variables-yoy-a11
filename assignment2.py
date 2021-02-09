@@ -1,4 +1,4 @@
 fname = "Mr"
 print(fname)
-Iname = "Yang"
-print(Iname)
+Lname = "Yang"
+print(Lname)
